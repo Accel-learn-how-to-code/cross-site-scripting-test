@@ -1,0 +1,25 @@
+* {
+    font-family: 'Jost', sans-serif;
+}
+
+.e-button {
+    color: white;
+    background-color: tomato;
+}
+
+.d-button {
+    color: yellow;
+    background-color: red;
+}
+
+button:hover {
+    transition-duration: 0.4s;
+    background-color: rgb(139, 139, 139);
+    color: white;
+    cursor: pointer;
+}
+
+#add-item {
+    color: white;
+    background-color: rgb(46, 46, 230);
+}

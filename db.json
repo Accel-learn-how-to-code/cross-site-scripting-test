@@ -1,0 +1,48 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Get up early"
+    },
+    {
+      "id": 2,
+      "content": "Go to school"
+    },
+    {
+      "id": 4,
+      "content": "Have a nice dream"
+    },
+    {
+      "id": 5,
+      "content": "Eat breakfast"
+    },
+    {
+      "id": 9,
+      "content": "Time to have lunch"
+    },
+    {
+      "id": 10,
+      "content": "I'm so good"
+    },
+    {
+      "id": 11,
+      "content": "Learn to pass exams"
+    },
+    {
+      "id": 12,
+      "content": "I finished all the exams"
+    },
+    {
+      "id": 13,
+      "content": "I love you 3000"
+    },
+    {
+      "id": 14,
+      "content": "Test your love"
+    },
+    {
+      "id": 15,
+      "content": "fuck yeah"
+    }
+  ]
+}
